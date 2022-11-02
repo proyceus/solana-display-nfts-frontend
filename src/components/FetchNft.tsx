@@ -6,5 +6,9 @@ import styles from "../styles/custom.module.css";
 export const FetchNft: FC = () => {
   const fetchNfts = async () => {};
 
+  const test = {
+    dog: "cat",
+  };
+
   return <div></div>;
 };
